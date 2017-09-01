@@ -24,7 +24,5 @@ app.get('/', function (req, res, next) {
     });
 });
 
+app.listen(process.env.PORT || 5000);
 
-app.listen(3000, function () {
-  console.log('app is listening at port 3000');
-});
