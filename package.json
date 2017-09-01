@@ -1,0 +1,25 @@
+{
+  "name": "node-simple-crawler",
+  "version": "1.0.0",
+  "description": "try deploy node app",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "^4.9.5",
+    "superagent": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runrunbear/node-simple-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runrunbear/node-simple-crawler/issues"
+  },
+  "homepage": "https://github.com/runrunbear/node-simple-crawler#readme"
+}
